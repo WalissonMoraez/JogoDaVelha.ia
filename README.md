@@ -1,4 +1,4 @@
-Jogo da Velha com IA
+# Jogo da Velha com IA
 Este projeto é uma implementação do Jogo da Velha em Java, que permite que o jogador humano jogue contra o computador. O computador utiliza o algoritmo Minimax para tomar decisões estratégicas, garantindo uma jogabilidade desafiadora.
 
 Sumário
